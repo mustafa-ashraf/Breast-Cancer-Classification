@@ -1,5 +1,8 @@
 # Breast Cancer Classification 
 
+![Breast Cancer Image](https://surgery.wustl.edu/wp-content/uploads/2022/04/Breast-Cancer-Screening_News-1024x677.png)
+
+
 This project is focused on building a machine learning model for the classification of breast cancer tumors as benign or malignant. The dataset used in this project contains various features extracted from breast cancer biopsies, and our goal is to develop a predictive model to help in the diagnosis of breast cancer.
 
 ## Dataset
